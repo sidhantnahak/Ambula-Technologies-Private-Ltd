@@ -8,17 +8,16 @@ This project is a simple Todo App built with the react js and javascript.  we sh
 Clone the repository
 Install dependencies with npm install
 Run the development server with npm run server
-Navigate to http://localhost:3000 in your web browser
-For Server npm run server
+
 
 ## Demo
 
-https://lucent-choux-755732.netlify.app/
+[https://lucent-choux-755732.netlify.app/](https://sunny-starlight-0eebd7.netlify.app/)
 
 ##  Tech-stack used
   
    ```
-Frontend : React js, Javascript Tailwind CSS , daisyUI
+Frontend : React js, Javascript Tailwind CSS , Css
 
 
    ```
@@ -30,12 +29,12 @@ Frontend : React js, Javascript Tailwind CSS , daisyUI
 
 
   **Sample Page Images**
-  ---![Screenshot (1311)](https://github.com/deep1524/Ambula/assets/105913793/53d47672-96f9-4f7c-99fd-926871933b11)
-  ![Screenshot (1312)](https://github.com/deep1524/Ambula/assets/105913793/2df43c57-f98a-4b82-85ba-cc7d0bc431f8)
+  ---![Screenshot (1311)](https://github.com/sidhantnahak/Ambula-Technologies-Private-Ltd/blob/main/reactapp/src/images/todo_list.png)
+  ![Screenshot (1312)](https://github.com/sidhantnahak/Ambula-Technologies-Private-Ltd/blob/main/reactapp/src/images/news.png)
 
 
  
-![Screenshot (1313)](https://github.com/deep1524/Ambula/assets/105913793/f15e6a43-e28d-4a27-be21-ca1648887202)
+![Screenshot (1313)](https://github.com/sidhantnahak/Ambula-Technologies-Private-Ltd/blob/main/reactapp/src/images/cart.png)
 
 
 
