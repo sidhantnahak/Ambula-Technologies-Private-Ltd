@@ -2,7 +2,7 @@
 
 **Introduction**
 ---
-This project is a simple Todo App built with the react js and java script.  we show you how to create CRUD operations using json-server and build a beautiful UI with Tailwind CSS.
+This project is a simple Todo App built with the react js and javascript.  we show you how to create CRUD operations using json-server and build a beautiful UI with Tailwind CSS.
 
 🚀 Getting Started
 Clone the repository
