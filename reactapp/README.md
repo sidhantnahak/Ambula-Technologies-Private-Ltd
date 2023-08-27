@@ -1,4 +1,4 @@
-# Ambula Assignment  Task Management Application
+# Ambula Technologies Private Limited
 
 **Introduction**
 ---
